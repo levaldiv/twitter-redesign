@@ -12,6 +12,9 @@
 /.next/
 /out/
 
+# sanity files
+/twitterredesign/node_modules
+
 # production
 /build
 

@@ -1,5 +1,5 @@
-// import Head from "next/head";
-// import Image from "next/image";
+import Sidebar from "../components/Sidebar";
+import Feed from "../components/home/Feed";
 
 // creating a custom object
 const style = {
@@ -11,8 +11,8 @@ export default function Home() {
   return (
     <div className={style.wrapper}>
       <div className={style.content}>
-        <h2>Sidebar</h2>
-        <h2>Feed</h2>
+        <Sidebar />
+        <Feed />
         <h2>Widgets</h2>
       </div>
     </div>
