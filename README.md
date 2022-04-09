@@ -7,13 +7,13 @@ the Twitter app with its NFT properties (you can have a verified NFT as your pro
 
 Here is a preview:
 <p align="center" width="100">
-<img src="/assets/tred.JPG" width="500" height="500"/>
+<img src="/assets/tred.JPG" width="700" height="500"/>
 </p>
 
 
 Preview of when PROFILE is selected:
 <p align="center" width="100">
-<img src="/assets/profile.JPG" width="500" height="500"/>
+<img src="/assets/profile.JPG" width="700" height="500"/>
 </p>
 
 ## How to use
