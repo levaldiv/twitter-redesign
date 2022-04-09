@@ -5,17 +5,6 @@ the Twitter app with its NFT properties (you can have a verified NFT as your pro
 
 **NOTE:** This is all created using Solidity and the Rinkeby Test Network. THIS IS NOT REAL ETHEREUM.
 
-Here is a preview:
-<p align="center" width="100">
-<img src="/assets/tred.JPG" width="700" height="500"/>
-</p>
-
-
-Preview of when PROFILE is selected:
-<p align="center" width="100">
-<img src="/assets/profile.JPG" width="700" height="500"/>
-</p>
-
 ## How to use
 
 - Connect with Metamask
@@ -27,12 +16,26 @@ Preview of when PROFILE is selected:
 - You can also click on PROFILE on the left and it will take you to YOUR profile where you can see
   everything that YOU posted
 
+
+Here is a preview:
+<p align="center" width="100">
+<img src="/assets/tred.JPG" width="650" height="500"/>
+</p>
+
+
+Preview of when PROFILE is selected:
+<p align="center" width="100">
+<img src="/assets/profile.JPG" width="650" height="500"/>
+</p>
+
+
 ## Dependencies used
 
-1. [sanity/image-url](https://www.sanity.io/docs/image-url)
-2. [thirdweb-dev/react](https://portal.thirdweb.com/learn-thirdweb)
-3. [thirdweb-dev/sdk](https://portal.thirdweb.com/learn-thirdweb)
+1. [emotion/react](https://emotion.sh/docs/introduction)
+2. [sanity/cli](https://www.sanity.io/get-started?ref=navbar&originUrl=https://sanity.io)
+3. [sanity/client](https://github.com/sanity-io/client)
 4. [ethers](https://github.com/ethers-io/ethers.js)
-5. [next-sanity](https://www.npmjs.com/package/next-sanity)
-6. [react-hot-toast](https://react-hot-toast.com/)
-7. [react-typewriter](https://github.com/ianbjorndilling/react-typewriter)
+5. [react-icons](https://react-icons.github.io/react-icons/)
+6. [react-modal](https://github.com/reactjs/react-modal)
+7. [react-spinners](https://github.com/davidhu2000/react-spinners)
+7. [timeago.js](https://github.com/nmn/react-timeago)
