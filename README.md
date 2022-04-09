@@ -1,34 +1,23 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Twitter Blockchain Web 3.0 Challenge
+How's it going everyone! This here is a Twitter Blockchain Web 3.0 Challenge! We were tasked to create a semi-replicate
+the Twitter app with its NFT properties (you can have a verified NFT as your profile picture). This was definitely another challeging YET exciting build as it focused on what most Big Companies use today.
 
-## Getting Started
+**NOTE:** This is all created using Solidity and the Rinkeby Test Network. THIS IS NOT REAL ETHEREUM. 
 
-First, run the development server:
+Here is a preview:
+![](/assets/tred.JPG)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## How to use
+- Connect with Metamask 
+- Click 'Sign in'
+- It will connect your current Wallet from Metamask
+- Click on 'Mint NFT' to start minting 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Dependencies used
+1) [sanity/image-url](https://www.sanity.io/docs/image-url)
+2) [thirdweb-dev/react](https://portal.thirdweb.com/learn-thirdweb)
+3) [thirdweb-dev/sdk](https://portal.thirdweb.com/learn-thirdweb)
+4) [ethers](https://github.com/ethers-io/ethers.js)
+5) [next-sanity](https://www.npmjs.com/package/next-sanity)
+6) [react-hot-toast](https://react-hot-toast.com/)
+7) [react-typewriter](https://github.com/ianbjorndilling/react-typewriter)
