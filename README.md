@@ -38,4 +38,5 @@ Preview of when PROFILE is selected:
 5. [react-icons](https://react-icons.github.io/react-icons/)
 6. [react-modal](https://github.com/reactjs/react-modal)
 7. [react-spinners](https://github.com/davidhu2000/react-spinners)
-7. [timeago.js](https://github.com/nmn/react-timeago)
+8. [timeago.js](https://github.com/nmn/react-timeago)
+9. [Hardhat](https://hardhat.org/getting-started/)
