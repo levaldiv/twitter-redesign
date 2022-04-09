@@ -8,7 +8,7 @@ the Twitter app with its NFT properties (you can have a verified NFT as your pro
 Here is a preview:
 
 <!-- ![](/assets/tred.JPG|width=400px) -->
-<img src="/assets/tred.JPG">
+<img src="/assets/tred.JPG" width="250">
 
 ## How to use
 
