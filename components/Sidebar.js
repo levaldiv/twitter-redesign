@@ -108,7 +108,8 @@ function Sidebar({ initialSelectedIcon = "Home" }) {
         <div
           className={style.tweetButton}
           onClick={() =>
-            router.push(`${router.pathname}/?mint=${currentAccount}`)
+            // no need to add another / because it is already there
+            router.push(`${router.pathname}?mint=${currentAccount}`)
           }
         >
           Mint
