@@ -5,13 +5,17 @@ the Twitter app with its NFT properties (you can have a verified NFT as your pro
 **NOTE:** This is all created using Solidity and the Rinkeby Test Network. THIS IS NOT REAL ETHEREUM. 
 
 Here is a preview:
-![](/assets/tred.JPG)
+![](/assets/tred.JPG = 250x250)
 
 ## How to use
 - Connect with Metamask 
 - Click 'Sign in'
-- It will connect your current Wallet from Metamask
-- Click on 'Mint NFT' to start minting 
+- It will connect your current Wallet from Metamask or you can create a new account
+- It will log you in to the Home page where you can see tweets from anyone
+- You can also create your own tweets
+- Click on 'mint' and you will be able to mint your own image and set is as your profile picture
+- You can also click on PROFILE on the left and it will take you to YOUR profile where you can see 
+everything that YOU posted
 
 ## Dependencies used
 1) [sanity/image-url](https://www.sanity.io/docs/image-url)
