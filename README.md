@@ -5,7 +5,7 @@ the Twitter app with its NFT properties (you can have a verified NFT as your pro
 **NOTE:** This is all created using Solidity and the Rinkeby Test Network. THIS IS NOT REAL ETHEREUM. 
 
 Here is a preview:
-![](/assets/tred.JPG =250x250)
+![](/assets/tred.JPG|width=400px)
 
 ## How to use
 - Connect with Metamask 
