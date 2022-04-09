@@ -6,10 +6,14 @@ the Twitter app with its NFT properties (you can have a verified NFT as your pro
 **NOTE:** This is all created using Solidity and the Rinkeby Test Network. THIS IS NOT REAL ETHEREUM.
 
 Here is a preview:
-
-<!-- ![](/assets/tred.JPG|width=400px) -->
 <p align="center" width="100">
 <img src="/assets/tred.JPG" width="500" height="500"/>
+</p>
+
+
+Preview of when PROFILE is selected:
+<p align="center" width="100">
+<img src="/assets/profile.JPG" width="500" height="500"/>
 </p>
 
 ## How to use
